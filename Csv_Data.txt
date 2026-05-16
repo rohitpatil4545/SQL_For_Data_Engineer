@@ -1,0 +1,11 @@
+order_id,order_date,customer_id,customer_name,city,car_model,variant,color,price,quantity
+1001,2025-01-05,C001,Rahul Sharma,Mumbai,Defender,HSE,Black,9500000,1
+1002,2025-01-07,C002,Priya Mehta,Delhi,Discovery,SE,White,7200000,1
+1003,2025-01-08,C003,Arjun Patel,Ahmedabad,Range Rover Evoque,S,Red,6800000,2
+1004,2025-01-10,C004,Neha Verma,Bangalore,Defender,X-Dynamic,Green,10200000,1
+1005,2025-01-12,C005,Karan Singh,Pune,Discovery Sport,HSE,Blue,6100000,1
+1006,2025-01-15,C006,Amit Joshi,Hyderabad,Range Rover Velar,R-Dynamic,Silver,8700000,1
+1007,2025-01-17,C007,Simran Kaur,Chandigarh,Range Rover Sport,Autobiography,Black,14500000,1
+1008,2025-01-18,C008,Rohit Gupta,Jaipur,Discovery,SE,White,7200000,2
+1009,2025-01-19,C009,Ananya Iyer,Chennai,Range Rover Evoque,S,Blue,6800000,1
+1010,2025-01-21,C010,Vikram Nair,Kochi,Defender,HSE,Gray,9500000,1
